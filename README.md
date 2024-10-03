@@ -28,7 +28,7 @@ Clone este repositório:
 bash
 
 Copiar código
-``git clone https://github.com/seu_usuario/Rotina_TJDFT.git``
+``git clone https://github.com/Cak3rzs/Rotina_TJDFT.git``
 cd seu_repositorio
 Instale as dependências:
 
